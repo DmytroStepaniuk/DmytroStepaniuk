@@ -1,4 +1,4 @@
-### Hi there 👋
+![Chess](/chess.jpg "Chess")
 
 <!--
 **DmytroStepaniuk/DmytroStepaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
